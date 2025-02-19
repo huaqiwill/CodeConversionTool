@@ -1,0 +1,3 @@
+YEAR = 2025
+AUTHOR = "彭存福"
+VERSION = "1.0.0"
